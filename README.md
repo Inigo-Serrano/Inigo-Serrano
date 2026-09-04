@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Íñigo 👋
 
-<!--
-**Inigo-Serrano/Inigo-Serrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math Engineering & AI student @ [ICAI](https://www.comillas.edu/en/) — currently on academic exchange @ [UIUC](https://illinois.edu/), focused on AI, distributed systems, and data engineering.
 
-Here are some ideas to get you started:
+- Currently building projects in ML, real-time data pipelines, and robotics
+- B.S. Mathematical Engineering & Artificial Intelligence — Universidad Pontificia Comillas (ICAI)
+- Based in Champaign, IL (exchange) / Madrid, Spain
+- Reach me at inigoserrano2005@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Featured projects**
+
+- 🤖 [Autonomous Robot Navigation & Localization](https://github.com/Inigo-Serrano/autonomous-robot-navigation) — ROS 2 navigation stack with particle-filter localization, PRM/A* planning, and pure-pursuit control
+
+---
+
+**Tech stack**
+
+`Python` `SQL` `R` `C#` `JavaScript` · `PyTorch` `Scikit-learn` `Pandas` · `Apache Kafka` `Apache Spark` `AWS` `PostgreSQL` · `Docker` `ROS 2` `Next.js` `React` `Django REST`
